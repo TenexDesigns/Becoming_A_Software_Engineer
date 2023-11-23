@@ -18,8 +18,11 @@ Remember, becoming proficient in programming is a journey that takes time and pr
 
 
 
-
-
+Useful Links
+  https://www.springboard.com/blog/software-engineering/programming-skills/                                                                                                                                                                                                               
+  https://www.linkedin.com/advice/3/how-do-you-improve-your-programming-skills                                                                                                                                                                                                               
+  https://bootcamp.du.edu/blog/programming-skills/
+  https://bootcamp.du.edu/blog/programming-skills/
 
 
 
